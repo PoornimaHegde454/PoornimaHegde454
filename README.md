@@ -1,8 +1,9 @@
 # Hey there! I'm Poornima 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Software+Developer+Intern+%40+Stonx+Solutions;Designer+%26+Tech+Enthusiast;Building+AI+Magic+with+Style+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Software+Developer;Designer+%26+Tech+Enthusiast;Building+AI+Magic+with+Style+✨" alt="Typing SVG" />
 </div>
+
 
 ---
 
