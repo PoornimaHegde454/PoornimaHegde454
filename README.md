@@ -65,14 +65,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/PoornimaHegde454">
-    <img src="https://github-readme-stats.vercel.app/api?username=PoornimaHegde454&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornimaHegde454&layout=compact&theme=radical&hide_border=true" height="180px" />
-  </a>
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=PoornimaHegde454&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="180" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornimaHegde454&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" height="180" />
+  </div>
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoornimaHegde454&theme=radical&hide_border=true" height="180px" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoornimaHegde454&theme=radical&hide_border=true" alt="GitHub Streak" width="400" height="180" />
 </div>
+
 
 
 ---
